@@ -1,0 +1,67 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "username": "wirdakurnia",
+      "password": "123",
+      "email": "w@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "dts",
+      "password": "123",
+      "email": "dts@gmail.com"
+    }
+  ],
+  "photos":[
+    {
+      "id": 1,
+      "name": "Yellow on Flower",
+      "uploader": "Ken",
+      "price": 2,
+      "imageUrl": "https://www.recreoviral.com/wp-content/uploads/2019/01/fondo-de-pantalla-recreoviral.com-13.jpg"
+    },
+    {
+      "id": 2,
+      "name": "My Scenery",
+      "uploader": "Mariposa",
+      "price": 3,
+      "imageUrl": "https://www.recreoviral.com/wp-content/uploads/2019/01/fondo-de-pantalla-recreoviral.com-5.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lamp in the night",
+      "uploader": "Barbie",
+      "price": 1,
+      "imageUrl": "https://www.recreoviral.com/wp-content/uploads/2019/01/fondo-de-pantalla-recreoviral.com-2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Street on point",
+      "uploader": "Aurora",
+      "price": 4,
+      "imageUrl": "https://i.pinimg.com/originals/e6/93/c0/e693c00fef7315f95519cec3f4aaad95.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Beautiful Sea",
+      "uploader": "Daniel",
+      "price": 4,
+      "imageUrl": "https://i.pinimg.com/736x/94/24/d8/9424d8048b845f3a2db28b1f52c47095.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Magical Cloud",
+      "uploader": "Belle",
+      "price": 2,
+      "imageUrl": "https://i.pinimg.com/originals/fd/a9/06/fda906a9e0123fb894e26c867cf1b168.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Neon Glow",
+      "uploader": "Fano",
+      "price": 3,
+      "imageUrl": "https://www.thisiscolossal.com/wp-content/uploads/2016/05/LiamWong_03.jpg"
+    }
+  ]
+}
