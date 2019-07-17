@@ -63,5 +63,32 @@
       "price": 3,
       "imageUrl": "https://www.thisiscolossal.com/wp-content/uploads/2016/05/LiamWong_03.jpg"
     }
+  ],
+  "trendings":[
+    {
+      "id": 1,
+      "uploader": "Snow White",
+      "imageUrl": "https://www.we-heart.com/upload-images/feastofmeritmelbourne7.jpg"
+    },
+    {
+      "id": 2,
+      "uploader": "Stefan",
+      "imageUrl": "https://i.pinimg.com/originals/df/0c/5e/df0c5e3aa27f7dc628ee55b74b749a06.jpg"
+    },
+    {
+      "id": 3,
+      "uploader": "Joko",
+      "imageUrl": "https://i.pinimg.com/736x/fa/76/bc/fa76bcba0071b2c05c7acfe00c64a066.jpg"
+    },
+    {
+      "id": 4,
+      "uploader": "Boy",
+      "imageUrl": "https://thebusybaker.ca/wp-content/uploads/2018/11/cranberry-honey-walnut-artisan-bread-2.jpg"
+    },
+    {
+      "id": 5,
+      "uploader": "Anna",
+      "imageUrl": "https://3e2fopp42g-flywheel.netdna-ssl.com/wp-content/uploads/2018/04/Snow-1.jpg"
+    }
   ]
 }
