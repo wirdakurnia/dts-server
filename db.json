@@ -3,12 +3,12 @@
     {
       "id":1,
       "username": "wirdakurnia",
-      "password" : "123"
+      "password": "123"
     },
     {
       "id":2,
       "username": "dts",
-      "password" : "123"
+      "password": "123"
     }
   ]
 }
