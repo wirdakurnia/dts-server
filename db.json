@@ -1,18 +1,4 @@
 {
-  "users":[
-    {
-      "id": 1,
-      "username": "wirdakurnia",
-      "password": "123",
-      "email": "w@gmail.com"
-    },
-    {
-      "id": 2,
-      "username": "dts",
-      "password": "123",
-      "email": "dts@gmail.com"
-    }
-  ],
   "photos":[
     {
       "id": 1,
