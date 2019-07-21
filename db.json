@@ -132,5 +132,37 @@
       "uploader": "Anna",
       "imageUrl": "https://3e2fopp42g-flywheel.netdna-ssl.com/wp-content/uploads/2018/04/Snow-1.jpg"
     }
+  ],
+  "profiles":[
+    {
+      "id": 1,
+      "name": "Favorite's Snack",
+      "price": 1,
+      "imageUrl": "https://i.pinimg.com/originals/0d/4f/bb/0d4fbbfaf4268a3dcc43e19589f9fe64.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Butterfly",
+      "price": 2,
+      "imageUrl": "https://cdn-ep19.pressidium.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2018/11/butterfly-photography-on-flower.jpg.webp"
+    },
+    {
+      "id": 3,
+      "name": "Birthday Cake",
+      "price": 2,
+      "imageUrl": "https://cleobuttera.com/wp-content/uploads/2018/10/full-russian-side.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bike",
+      "price": 3,
+      "imageUrl": "https://i.pinimg.com/736x/fa/76/bc/fa76bcba0071b2c05c7acfe00c64a066.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Meal",
+      "price": 1,
+      "imageUrl": "https://www.simplyquinoa.com/wp-content/uploads/2016/01/roasted-garlic-cauliflower-chowder-6.jpg"
+    }
   ]
 }
