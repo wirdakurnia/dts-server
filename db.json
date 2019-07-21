@@ -48,6 +48,62 @@
       "uploader": "Fano",
       "price": 3,
       "imageUrl": "https://www.thisiscolossal.com/wp-content/uploads/2016/05/LiamWong_03.jpg"
+    },
+    {
+      "id": 8,
+      "name": "My Bike",
+      "uploader": "Princess",
+      "price": 4,
+      "imageUrl": "https://i.pinimg.com/originals/31/b9/ec/31b9eced43e3a2c8758fe90c7d80339e.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Breakfast in the morning",
+      "uploader": "Putra",
+      "price": 2,
+      "imageUrl": "https://i.pinimg.com/originals/c7/aa/af/c7aaaf32f6f4650c6205b682aa4b6331.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Favorite's Coffe",
+      "uploader": "Anda",
+      "price": 4,
+      "imageUrl": "https://i.pinimg.com/originals/d3/41/77/d3417782499724f7ad1d5c1e3afabf57.png"
+    },
+    {
+      "id": 11,
+      "name": "Milky",
+      "uploader": "Putri",
+      "price": 3,
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/553d92dbe4b0955fe53b9d78/1524958336908-1JGVL19P64WI9LMSVHYI/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/Goodnight+Moon+Milk+%7C+Three+Sleepytime+Tonics+%7C+All+Purpose+Flour+Child?format=750w"
+    },
+    {
+      "id": 12,
+      "name": "My lovely daughter",
+      "uploader": "Adimas",
+      "price": 5,
+      "imageUrl": "https://barefootblond-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/DSC_0213-768x960.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Cutie pet",
+      "uploader": "Adelia",
+      "price": 1,
+      "imageUrl": "https://static.boredpanda.com/blog/wp-content/uploads/2015/11/cute-japanese-cat-scottish-fold-17-year-old-ura-1.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Birthday cake",
+      "uploader": "Iyok",
+      "price": 1,
+      "imageUrl": "https://cleobuttera.com/wp-content/uploads/2018/10/full-russian-side.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Little holiday",
+      "uploader": "Jasmine",
+      "price": 2,
+      "imageUrl": "https://i2.wp.com/littleholidays.net/wp-content/uploads/2017/01/Cherry-blossoms-in-Himeji-castle.jpg?resize=768%2C1158&ssl=1"
     }
   ],
   "trendings":[
